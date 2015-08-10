@@ -1,0 +1,4 @@
+package: anyjson
+script:
+  - conda build .
+build_targets: conda
